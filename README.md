@@ -1,4 +1,4 @@
-Steps to run MERN_stack (M:MySQL, E:Express, R:React, N:Node.js) (I have used MySQL instead of MongoDB):<br>
+Steps to run MEAN_stack (M:MySQL, E:Express, A:AngularJS, N:Node.js) (I have used MySQL instead of MongoDB):<br>
 (1) Commands to run the app:<br>
     &nbsp;&nbsp;&nbsp;&nbsp;(i) npm install express-generator -g<br>
     &nbsp;&nbsp;&nbsp;&nbsp;(ii) npm install -g express<br>
